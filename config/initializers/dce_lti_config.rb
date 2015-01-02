@@ -41,7 +41,7 @@ DceLti::Engine.setup do |lti|
       icon_url: "https://youtube-lti.herokuapp.com/youtube-logo.png",
       text: 'YouTube',
       selection_width: 500,
-      selection_height: 200,
+      selection_height: 260,
       enabled: true)
   end
 end
