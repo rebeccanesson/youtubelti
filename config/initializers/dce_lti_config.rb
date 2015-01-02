@@ -38,7 +38,7 @@ DceLti::Engine.setup do |lti|
     tool_config.canvas_privacy_public!
     tool_config.canvas_editor_button!(
       url: tool_config.launch_url,
-      icon_url: "https://youtube-lti.herokuapp.com/youtube-logo.png",
+      icon_url: "https://youtube-lti.herokuapp.com/youtube-icon.png",
       text: 'YouTube',
       selection_width: 500,
       selection_height: 260,
